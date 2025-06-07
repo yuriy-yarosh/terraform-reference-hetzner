@@ -2,9 +2,6 @@
   <a href="https://github.com/yuriy-yarosh/architecture">RCNA</a> Hetzner Reference Deployment Terraform module
 </h1>
 
-<p>Follows <a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html">AWS SRA</a> and
-<a href="https://docs.aws.amazon.com/prescriptive-guidance/latest/privacy-reference-architecture/introduction.html">AWS PRA</a> Prescriptive Guidance.</p>
-
 <h2 align="center">Features</h2>
 
 <h2 align="center">Usage</h2>
